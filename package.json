@@ -8,6 +8,7 @@
   },
   "scripts": {
     "test": "jest",
-    "test:add": "jest /tests/add.test.js"
+    "test:add": "jest /tests/add.test.js",
+    "test:divide": "jest /tests/divide.test.js"
   }
 }
