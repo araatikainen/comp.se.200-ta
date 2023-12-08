@@ -4,7 +4,7 @@ import divide from '../src/divide.js';
 
 describe('divide', () => {
     test('divides two numbers', () => {
-        expect(divide(1, 2)).toBe(0.5);
+        expect(divide(6, 4)).toBe(1.5);
     });
     test('divides two negative numbers', () => {
         expect(divide(-1, -2)).toBe(0.5);
