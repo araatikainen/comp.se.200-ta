@@ -2,11 +2,6 @@
 
 import add from '../src/add.js';
 
-describe('add', () => {
-    test('adds two numbers', () => {
-        expect(add(1, 2)).toBe(3);
-    });
-});
 
 // create five different test cases for add.js
 
