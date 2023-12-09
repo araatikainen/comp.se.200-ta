@@ -9,6 +9,14 @@
   "scripts": {
     "test": "jest",
     "test:add": "jest /tests/add.test.js",
-    "test:divide": "jest /tests/divide.test.js"
+    "test:divide": "jest /tests/divide.test.js",
+    "test:capitalize": "jest /tests/capitalize.test.js",
+    "test:castArray": "jest /tests/castArray.test.js",
+    "test:eq": "jest /tests/eq.test.js",
+    "test:filter": "jest /tests/filter.test.js",
+    "test:get": "jest /tests/get.test.js",
+    "test:isEmpty": "jest /tests/isEmpty.test.js",
+    "test:toInteger": "jest /tests/toInteger.test.js",
+    "test:toString": "jest /tests/toString.test.js"
   }
 }
